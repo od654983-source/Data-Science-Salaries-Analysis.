@@ -8,14 +8,6 @@ The Python notebook includes the following steps:
 - Renaming columns for better readability
 - Converting coded values (EN, MI, SE, EX) into meaningful labels
 - Handling data types for salary and remote ratio
-
-### 🔹 Exploratory Data Analysis (EDA)
-- Average salary by experience level
-- Salary distribution by job title
-- Remote vs on-site job comparison
-- Salary analysis by company size
-- Top-paying countries
-
 ---
 
 ## 📊 Power BI Dashboard
